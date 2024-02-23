@@ -1,0 +1,1 @@
+print("Menú del día: Hamburgesas")
